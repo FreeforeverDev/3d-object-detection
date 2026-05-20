@@ -4,4 +4,6 @@ Built with Swift, Apple ARKit, and Vision framework.
 
 **Demo**
 
-![Live Demo](03-live-demo-screenrecording.gif)
+<p align="center">
+  <img src="03-live-demo-screenrecording.gif" alt="Live Demo" width="30%">
+</p>
