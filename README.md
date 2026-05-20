@@ -3,6 +3,6 @@ Detecting objects in 3D environments and visualizing them in augmented reality. 
 
 <p align="center"><b>Demo</b></p>
 <p align="center">
-  <img src="03-live-demo-screenrecording.gif" alt="Live Demo" width="30%">
+  <img src="media/03-live-demo-screenrecording.gif" alt="Live Demo" width="30%">
 </p>
 
